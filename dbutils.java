@@ -1,3 +1,8 @@
-hello 
-test1
-test123
+
+class A
+{
+	public static void main(string args[])
+	{
+		system.
+	}
+}
